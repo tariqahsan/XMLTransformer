@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Record>
+      <Abstract>Given that it is a holiday weekend, Mr. Thomas has authorized a 59 minute early release today as dictated by mission requirements.  Please be safe as you travel home and enjoy your long weekend!</Abstract>
+      <AccessionNumber>AD1000285</AccessionNumber>
+      <AdministrativeNote/>
+      <AuthorOrganizations>
+        <AuthorOrganization Num="1">
+          <Acronym/>
+          <City>BURR RIDGE</City>
+          <Country>
+            <EcmsCode>242</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <Name> Alion Science and Technology Corporation</Name>
+          <OrganizationType>
+            <Code>4</Code>
+            <Description>Industrial/Commercial</Description>
+            <EcmsCode>100</EcmsCode>
+          </OrganizationType>
+          <PostalCode>60527</PostalCode>
+          <ReportNumber/>
+          <SourceCode/>
+          <State>
+            <EcmsCode>13</EcmsCode>
+            <Name>IL</Name>
+          </State>
+          <SubName/>
+        </AuthorOrganization>
+        <AuthorOrganization Num="2">
+          <Acronym/>
+          <City/>
+          <Country>
+            <EcmsCode>242</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <OrganizationType>
+            <Code>Y</Code>
+            <Description>DoD Agencies</Description>
+            <EcmsCode>93</EcmsCode>
+          </OrganizationType>
+          <PostalCode/>
+          <ReportNumber/>
+          <SourceCode/>
+          <State/>
+          <SubName/>
+        </AuthorOrganization>
+      </AuthorOrganizations>
+      <Authors>
+        <Author Num="1">
+          <FirstName>Author</FirstName>
+          <Government>True</Government>
+          <LastName>Test</LastName>
+          <MiddleName>a</MiddleName>
+          <Orcid>2365125645697896</Orcid>
+          <Suffix>Sr.</Suffix>
+        </Author>
+        <Author Num="2">
+          <FirstName>Mister</FirstName>
+          <Government>True</Government>
+          <LastName>Wahab</LastName>
+          <MiddleName>s</MiddleName>
+          <Orcid>2365452312364563</Orcid>
+          <Suffix>Sr.</Suffix>
+        </Author>
+      </Authors>
+      <Comment>Given that it is a holiday weekend, Mr. Thomas has authorized a 59 minute early release today as dictated by mission requirements.  Please be safe as you travel home and enjoy your long weekend!</Comment>
+      <Conference>
+        <EndDate/>
+        <Location>
+          <Country/>
+        </Location>
+        <StartDate/>
+      </Conference>
+      <ControllingOrganizations>
+        <ControllingOrganization Num="1">
+          <Acronym/>
+          <City>Fort Belovir</City>
+          <Code/>
+          <Country>
+            <EcmsCode>242</EcmsCode>
+          </Country>
+          <Name>DTIC</Name>
+          <PostalCode>22060</PostalCode>
+          <SameOrganizationAsFunding>No</SameOrganizationAsFunding>
+          <SourceCode/>
+          <State>VA</State>
+          <Street/>
+          <SubName/>
+        </ControllingOrganization>
+      </ControllingOrganizations>
+      <CreationDate>
+        <Date>10/11/2019</Date>
+        <String>10/11/2019</String>
+      </CreationDate>
+      <DateCovered>
+        <From>
+          <Date>10/15/2019</Date>
+          <String>10/15/2019</String>
+        </From>
+        <To>
+          <Date>10/30/2019</Date>
+          <String>10/30/2019</String>
+        </To>
+      </DateCovered>
+      <DigitizationId/>
+      <DocumentType>
+        <Main>
+          <Description>JOURNAL ARTICLE - OPEN ACCESS</Description>
+          <EcmsCode>2</EcmsCode>
+        </Main>
+        <Sub>
+          <Description>Authors Final Manuscript</Description>
+          <EcmsCode>54</EcmsCode>
+        </Sub>
+      </DocumentType>
+      <Doi>test-34-aw-iac</Doi>
+      <EcmsCollection>IAC</EcmsCollection>
+      <EmbeddedMedia>False</EmbeddedMedia>
+      <Files>
+        <File>
+          <DownloadFileName>AD1000285.pdf</DownloadFileName>
+          <UploadFileName>TestPDFfile.pdf</UploadFileName>
+          <UploadFileSize>Attached File Size: 112.7 KB</UploadFileSize>
+        </File>
+      </Files>
+      <FormOrigin>I</FormOrigin>
+      <FundingOrganizations>
+        <FundingOrganization Num="1">
+          <Acronym/>
+          <City>Fort Belvoir</City>
+          <Code>210650</Code>
+          <Contract>
+            <AwardDate>
+              <Date>03/13/2015</Date>
+            </AwardDate>
+            <IacType>
+              <Name>Homeland Defense</Name>
+              <EcmsCode>3</EcmsCode>
+            </IacType>
+            <Number>
+              <Punctuated>HT-FA8075-14-D-0009</Punctuated>
+              <Unpunctuated>HT-FA8075-14-D-0009</Unpunctuated>
+            </Number>
+            <Title>HT=Homeland Defense and Security</Title>
+          </Contract>
+          <Country>
+            <EcmsCode>242</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <GrantNumber/>
+          <OrganizationType>
+            <Code>210650</Code>
+            <Description>DLA</Description>
+            <EcmsCode>93</EcmsCode>
+            <Id>210650</Id>
+          </OrganizationType>
+          <PerformanceMethod/>
+          <PostalCode>22060</PostalCode>
+          <ProgramElementNumber/>
+          <ProjectNumber/>
+          <RecordId>125170</RecordId>
+          <ReportNumber/>
+          <SameOrganizationAsAuthor>No</SameOrganizationAsAuthor>
+          <SourceCode/>
+          <State>
+            <EcmsCode>1</EcmsCode>
+            <Name>AL</Name>
+          </State>
+          <SubName/>
+          <Task>
+            <Number>
+              <Punctuated>HT-14-1043</Punctuated>
+              <Unpunctuated>HT-14-1043</Unpunctuated>
+            </Number>
+          </Task>
+          <TaskOrders>
+            <TaskOrder>
+              <EndDate>
+                <Date>03/12/2020</Date>
+                <String>03/12/2020</String>
+              </EndDate>
+              <Number>
+                <Punctuated>HT-14-1043</Punctuated>
+                <Unpunctuated>HT-14-1043</Unpunctuated>
+              </Number>
+              <StartDate>
+                <Date>03/13/2015</Date>
+                <String>03/13/2015</String>
+              </StartDate>
+              <Title>ECBC Decontamination Sciences Branch</Title>
+            </TaskOrder>
+          </TaskOrders>
+          <WorkUnitNumber/>
+        </FundingOrganization>
+        <FundingOrganization Num="2">
+          <Acronym>ABC</Acronym>
+          <City>test city</City>
+          <Code>242315</Code>
+          <Contract>
+            <AwardDate>
+              <Date>03/13/2015</Date>
+            </AwardDate>
+            <IacType>
+              <Name>Homeland Defense</Name>
+              <EcmsCode>3</EcmsCode>
+            </IacType>
+            <Number>
+              <Punctuated>HT-FA8075-14-D-0009</Punctuated>
+              <Unpunctuated>HT-FA8075-14-D-0009</Unpunctuated>
+            </Number>
+            <Title>HT=Homeland Defense and Security</Title>
+          </Contract>
+          <Country>
+            <EcmsCode>United States</EcmsCode>
+            <Name>United States</Name>
+          </Country>
+          <GrantNumber/>
+          <OrganizationType>
+            <Code>242315</Code>
+            <Description>dtic funding</Description>
+            <EcmsCode>104</EcmsCode>
+            <Id>242315</Id>
+          </OrganizationType>
+          <PerformanceMethod/>
+          <PostalCode/>
+          <ProgramElementNumber/>
+          <ProjectNumber/>
+          <RecordId>125170</RecordId>
+          <ReportNumber/>
+          <SameOrganizationAsAuthor>No</SameOrganizationAsAuthor>
+          <SourceCode/>
+          <State>
+            <EcmsCode>1</EcmsCode>
+            <Name>AL</Name>
+          </State>
+          <SubName/>
+          <Task>
+            <Number>
+              <Punctuated>HT-14-1043</Punctuated>
+              <Unpunctuated>HT-14-1043</Unpunctuated>
+            </Number>
+          </Task>
+          <TaskOrders>
+            <TaskOrder>
+              <EndDate>
+                <Date>03/12/2020</Date>
+                <String>03/12/2020</String>
+              </EndDate>
+              <Number>
+                <Punctuated>HT-14-1043</Punctuated>
+                <Unpunctuated>HT-14-1043</Unpunctuated>
+              </Number>
+              <StartDate>
+                <Date>03/13/2015</Date>
+                <String>03/13/2015</String>
+              </StartDate>
+              <Title>ECBC Decontamination Sciences Branch</Title>
+            </TaskOrder>
+          </TaskOrders>
+          <WorkUnitNumber/>
+        </FundingOrganization>
+      </FundingOrganizations>
+      <Journal>
+        <IssueNumber>5</IssueNumber>
+        <PageNumber/>
+        <PublicationDate>
+          <Date/>
+          <String/>
+        </PublicationDate>
+        <Title>Test on IAC stg   </Title>
+        <VolumeNumber>45</VolumeNumber>
+      </Journal>
+      <Markings>
+        <Abstract>
+          <Classification>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Classification>
+          <Distribution>
+            <Code>B</Code>
+            <Description>U.S. Government agencies only</Description>
+            <EcmsCode>2</EcmsCode>
+            <Name>U.S. Government agencies only</Name>
+          </Distribution>
+          <DistributionReasons>
+            <DistributionReason Num="1">
+              <Code>EC</Code>
+              <Description>Export Controlled</Description>
+            </DistributionReason>
+          </DistributionReasons>
+          <ExportControl>True</ExportControl>
+        </Abstract>
+        <Copyright/>
+        <Descriptor>
+          <Classification>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Classification>
+        </Descriptor>
+        <Distribution>
+          <Code>B</Code>
+          <DateSameAsReport>Yes</DateSameAsReport>
+          <Description>U.S. Government agencies only</Description>
+          <EcmsCode/>
+        </Distribution>
+        <DistributionChange>
+          <ChangeAuthority/>
+        </DistributionChange>
+        <DistributionDate>
+          <Date>10/16/2019</Date>
+          <String>10/16/2019</String>
+        </DistributionDate>
+        <DistributionReasons>
+          <DistributionReason Num="1">
+            <Code>EC</Code>
+            <Description>Export Controlled</Description>
+            <EcmsCode>10062</EcmsCode>
+          </DistributionReason>
+        </DistributionReasons>
+        <DocumentClassification>
+          <Code>U</Code>
+          <Description>Unclassified</Description>
+        </DocumentClassification>
+        <DocumentClassificationChange>
+          <ChangeAuthority/>
+          <Declassification/>
+          <DowngradeDate>01/01/0001</DowngradeDate>
+          <New>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </New>
+          <Prior>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Prior>
+        </DocumentClassificationChange>
+        <EmbargoPeriod/>
+        <ExportControl>True</ExportControl>
+        <ForPay/>
+        <Identifier>
+          <Classification>
+            <Code>U</Code>
+            <Description>Unclassified</Description>
+          </Classification>
+        </Identifier>
+        <Nato/>
+        <DocumentExists>Yes</DocumentExists>
+        <OpenAccessAvailable>False</OpenAccessAvailable>
+        <OstpJournal>False</OstpJournal>
+        <RecordClassification>
+          <Code>U</Code>
+          <Description>Unclassified</Description>
+        </RecordClassification>
+        <TitleClassification>
+          <Code>U</Code>
+          <Description>Unclassified</Description>
+        </TitleClassification>
+      </Markings>
+      <MediaFormat>
+        <EcmsCode/>
+      </MediaFormat>
+      <Pagination>0</Pagination>
+      <ProcessingPriority/>
+      <PublicationDate>
+        <Date>10/16/2019</Date>
+        <String>10/16/2019</String>
+      </PublicationDate>
+      <RecordId>125170</RecordId>
+      <RecordStatus>
+        <Code>A</Code>
+        <Description>active</Description>
+      </RecordStatus>
+      <RelatedAccessionNumber/>
+      <SbirTopic/>
+      <Sf298>True</Sf298>
+      <Submitter>
+        <EmailAddress>Abdul.wahab6.civ@mail.mil</EmailAddress>
+        <FirstName>abdul</FirstName>
+        <LastName>wahab</LastName>
+        <LdapId/>
+        <MiddleName/>
+        <Name>wahab  abdul</Name>
+        <Orcid/>
+        <Phone>(571) 448-9778</Phone>
+        <SameAsAuthor>False</SameAsAuthor>
+        <Suffix/>
+      </Submitter>
+      <TagSets>
+        <CommunitiesOfInterest>
+          <CommunityOfInterest>
+            <MainEcmsCode>3</MainEcmsCode>
+            <SubAreaEcmsCode>12</SubAreaEcmsCode>
+          </CommunityOfInterest>
+          <CommunityOfInterest>
+            <MainEcmsCode>7</MainEcmsCode>
+            <SubAreaEcmsCode>31</SubAreaEcmsCode>
+          </CommunityOfInterest>
+        </CommunitiesOfInterest>
+        <Descriptors>
+          <Descriptor id="" score=""/>
+        </Descriptors>
+        <Identifiers>
+          <Identifier Num="1">TEST</Identifier>
+        </Identifiers>
+        <JointCapabilityAreas id="125170" name="">
+          <JointCapabilityArea>
+            <Code>7</Code>
+            <Name>Building Partnerships</Name>
+          </JointCapabilityArea>
+        </JointCapabilityAreas>
+        <SubjectCategories/>
+        <TaggedDate>
+          <DateTime>10/17/2019</DateTime>
+        </TaggedDate>
+        <TechnologyAreas>
+          <TechnologyArea Num="1">
+            <Name>Autonomous systems</Name>
+            <EcmsCode>11</EcmsCode>
+          </TechnologyArea>
+        </TechnologyAreas>
+        <TechnologyReadinessLevel/>
+      </TagSets>
+      <Title>Test by AW on IAC Stg</Title>
+      <UpdateDate>
+        <Date>10/17/2019</Date>
+        <String>10/17/2019</String>
+      </UpdateDate>
+      <WebPublicationDate>
+        <Date>10/16/2019 12:00:00 AM</Date>
+        <String>10/16/2019 12:00:00 AM</String>
+      </WebPublicationDate>
+      <WorkflowId>109163</WorkflowId>
+    </Record>
